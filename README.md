@@ -1,4 +1,4 @@
-# Google Photos Library API Sharing Codelab
+# Google Photos Library API Sharing
 
 This directory contains the final implemented app.
 
